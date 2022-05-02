@@ -1,0 +1,7 @@
+.video__iframe {
+  height: 316px;
+  object-position: center;
+  border: none;
+  width: 515px;
+  object-fit: cover;
+}
